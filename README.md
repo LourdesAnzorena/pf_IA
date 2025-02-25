@@ -147,11 +147,11 @@ Se desarrollará un código en Python que incluya:
 
 Un prompt optimizado para extraer tablas de correos.
 
-8. Enlace a Google Colab: https://colab.research.google.com/drive/1QJAOAHlJsnCjXopAaP1GvgpIFbqgfhr0?usp=sharing
-
 Conversión y almacenamiento en un archivo Excel.
 
 Generación de visualizaciones mediante IA generativa.
 
 Interactividad para que el usuario pueda ingresar diferentes correos y observar los resultados.
+
+8. Enlace a Google Colab: https://colab.research.google.com/drive/1QJAOAHlJsnCjXopAaP1GvgpIFbqgfhr0?usp=sharing
 
